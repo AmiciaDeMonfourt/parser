@@ -1,6 +1,6 @@
 package main
 
-import "github.com/AmicieDeMonfourt/sqlparser/parser"
+import "github.com/AmiciaDeMonfourt/sqlparser/parser"
 
 func main() {
 	var parser parser.Parser

@@ -1,7 +1,7 @@
 package dql
 
 import (
-	"github.com/AmicieDeMonfourt/sqlparser/domain"
+	"github.com/AmiciaDeMonfourt/sqlparser/domain"
 )
 
 type Select struct {
